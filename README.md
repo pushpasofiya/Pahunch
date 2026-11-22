@@ -1,1 +1,2 @@
 # Pahunch
+%print
